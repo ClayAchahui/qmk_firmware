@@ -51,7 +51,7 @@ Necesitarás instalar MSYS2 y Git.
 
 Necesitarás instalar Homebrew. Sigue las instrucciones que encontrarás en la [página de Homebrew](https://brew.sh).
 
-Despueś de que se haya inastalado Homebrew, continúa con _Set Up QMK_. En ese paso ejecutará un script que instalará el resto de paquetes.
+Despueś de que se haya instalado Homebrew, continúa con _Set Up QMK_. En ese paso ejecutará un script que instalará el resto de paquetes.
 
 ### Linux
 
@@ -80,7 +80,7 @@ QMK viene con un script para ayudarte a configurar el resto de cosas que necesit
 
 ## Prueba tu entorno de construcción
 
-Ahora que tu entorno de construcción de QMK está configurado, puedes construcir un firmware para tu teclado. Comienza intentado construir el keymap por defecto del teclado. Deberías ser capaz de hacerlo con un comando con este formato:
+Ahora que tu entorno de construcción de QMK está configurado, puedes construir un firmware para tu teclado. Comienza intentado construir el keymap por defecto del teclado. Deberías ser capaz de hacerlo con un comando con este formato:
 
     make <keyboard>:default
 
